@@ -1,0 +1,6 @@
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.exe.config
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.exe
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.pdb
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.csprojResolveAssemblyReference.cache
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.exe
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.pdb

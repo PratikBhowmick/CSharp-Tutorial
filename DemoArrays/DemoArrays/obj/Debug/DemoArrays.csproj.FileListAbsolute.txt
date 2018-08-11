@@ -1,0 +1,6 @@
+c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\bin\Debug\DemoArrays.exe.config
+C:\Users\pratik\Documents\Visual Studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\bin\Debug\DemoArrays.exe
+C:\Users\pratik\Documents\Visual Studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\bin\Debug\DemoArrays.pdb
+C:\Users\pratik\Documents\Visual Studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\obj\Debug\DemoArrays.csprojResolveAssemblyReference.cache
+C:\Users\pratik\Documents\Visual Studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\obj\Debug\DemoArrays.exe
+C:\Users\pratik\Documents\Visual Studio 2015\Projects\C#Batch\DemoArrays\DemoArrays\obj\Debug\DemoArrays.pdb
