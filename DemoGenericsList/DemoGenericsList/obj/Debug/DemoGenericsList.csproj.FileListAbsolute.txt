@@ -3,3 +3,9 @@ E:\Besant Technology\DOT NET\C#-Tutorial\DemoGenericsList\DemoGenericsList\bin\D
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoGenericsList\DemoGenericsList\bin\Debug\DemoGenericsList.pdb
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoGenericsList\DemoGenericsList\obj\Debug\DemoGenericsList.exe
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoGenericsList\DemoGenericsList\obj\Debug\DemoGenericsList.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\bin\Debug\DemoGenericsList.exe.config
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\obj\Debug\DemoGenericsList.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\obj\Debug\DemoGenericsList.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\bin\Debug\DemoGenericsList.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\bin\Debug\DemoGenericsList.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoGenericsList\DemoGenericsList\obj\Debug\DemoGenericsList.csprojResolveAssemblyReference.cache

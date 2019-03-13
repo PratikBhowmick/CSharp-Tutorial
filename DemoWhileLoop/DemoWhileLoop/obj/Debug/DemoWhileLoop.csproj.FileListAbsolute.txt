@@ -3,3 +3,6 @@ c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoWhileLoop\Demo
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoWhileLoop\DemoWhileLoop\bin\Debug\DemoWhileLoop.pdb
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoWhileLoop\DemoWhileLoop\obj\Debug\DemoWhileLoop.exe
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoWhileLoop\DemoWhileLoop\obj\Debug\DemoWhileLoop.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoWhileLoop\DemoWhileLoop\bin\Debug\DemoWhileLoop.exe.config
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoWhileLoop\DemoWhileLoop\obj\Debug\DemoWhileLoop.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoWhileLoop\DemoWhileLoop\obj\Debug\DemoWhileLoop.pdb

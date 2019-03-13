@@ -19,6 +19,12 @@ namespace DemoExceptionHandling
                 int b = 0;
                 int result = a / b;
             }
+
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine("Tried dividing by zero");
+            }
+
             catch (Exception ex)
             {
                 Console.WriteLine("Some exception occured. Please try again. Exeption was : " + ex.Message);
@@ -28,7 +34,7 @@ namespace DemoExceptionHandling
                 Console.WriteLine("I am in finally");
                 Console.Read();
             }
-            
+
         }
     }
 }

@@ -4,3 +4,9 @@ c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatemen
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.csprojResolveAssemblyReference.cache
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.exe
 c:\users\pratik\documents\visual studio 2015\Projects\C#Batch\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.exe.config
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\bin\Debug\DemoSwitchStatement.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoSwitchStatement\DemoSwitchStatement\obj\Debug\DemoSwitchStatement.csprojResolveAssemblyReference.cache

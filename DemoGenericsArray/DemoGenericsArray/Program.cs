@@ -26,7 +26,10 @@ namespace DemoGenericsArray
 
             for(int i = 0; i<=ar.Length-1; i++)
             {
-                Console.WriteLine("Element at position {0} is {1}", i, ar[i]); 
+                Console.WriteLine("Element at position {0} is {1}", i, ar[i]);
+
+
+                Console.WriteLine("Element at position " + i +" is "+ ar[i]);
             }
 
 

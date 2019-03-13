@@ -4,3 +4,9 @@ E:\Besant Technology\DOT NET\C#-Tutorial\DemoExceptionHandling\DemoExceptionHand
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.exe
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.pdb
 E:\Besant Technology\DOT NET\C#-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.csprojResolveAssemblyReference.cache
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\bin\Debug\DemoExceptionHandling.exe.config
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\bin\Debug\DemoExceptionHandling.exe
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\bin\Debug\DemoExceptionHandling.pdb
+E:\Besant Technology\MVC\C#-Tutorial\CSharp-Tutorial\DemoExceptionHandling\DemoExceptionHandling\obj\Debug\DemoExceptionHandling.csprojResolveAssemblyReference.cache
