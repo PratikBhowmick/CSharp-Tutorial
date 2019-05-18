@@ -31,11 +31,6 @@ namespace DemoInterface
         public bool IsAlive()
         {
             return true;
-        }
-
-        public string SayHi()
-        {
-            return "Hi";
-        }
+        }        
     }
 }

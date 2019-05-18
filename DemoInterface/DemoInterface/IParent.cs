@@ -8,9 +8,7 @@ namespace DemoInterface
 {
     public interface IParent
     {
-        bool IsAlive();
-
-        string SayHi();
+        bool IsAlive();        
     }
 
 
